@@ -1,0 +1,32 @@
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+
+# NLP Libraries
+spacy>=3.5.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+nltk>=3.8
+
+# Vector Database
+faiss-cpu>=1.7.0
+
+# Web Framework
+streamlit>=1.28.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+
+# Utilities
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Optional (if using OpenAI for enhancements)
+# openai>=1.0.0
