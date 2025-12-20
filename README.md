@@ -34,4 +34,4 @@ streamlit run app.py
 🚧 Under Development
 
 ## 👤 Author
-Your Name - [GitHub](https://github.com/Kuldeep007Singh)
+Kuldeep Singh - [GitHub](https://github.com/Kuldeep007Singh)
