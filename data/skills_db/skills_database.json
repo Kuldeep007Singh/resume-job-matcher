@@ -1,0 +1,40 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "C++", "C#", "Ruby", "Go", "Rust", 
+    "PHP", "Swift", "Kotlin", "TypeScript", "R", "Scala", "Perl", "MATLAB"
+  ],
+  "ml_frameworks": [
+    "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "XGBoost", "LightGBM",
+    "Hugging Face", "OpenCV", "NLTK", "spaCy", "FastAI", "JAX"
+  ],
+  "web_frameworks": [
+    "React", "Angular", "Vue.js", "Node.js", "Django", "Flask", "FastAPI",
+    "Spring Boot", "Express.js", "Next.js", "Laravel", "Ruby on Rails"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "Cassandra", "Oracle",
+    "SQL Server", "SQLite", "DynamoDB", "Elasticsearch", "Neo4j"
+  ],
+  "cloud_platforms": [
+    "AWS", "Azure", "Google Cloud", "GCP", "Heroku", "DigitalOcean",
+    "Firebase", "Vercel", "Netlify"
+  ],
+  "devops_tools": [
+    "Docker", "Kubernetes", "Jenkins", "Git", "GitHub", "GitLab",
+    "CI/CD", "Terraform", "Ansible", "CircleCI", "Travis CI"
+  ],
+  "data_tools": [
+    "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Tableau",
+    "Power BI", "Apache Spark", "Hadoop", "Airflow", "Kafka"
+  ],
+  "soft_skills": [
+    "Communication", "Leadership", "Teamwork", "Problem Solving",
+    "Critical Thinking", "Time Management", "Adaptability", "Creativity",
+    "Collaboration", "Project Management", "Analytical Skills"
+  ],
+  "domains": [
+    "Machine Learning", "Deep Learning", "Natural Language Processing",
+    "Computer Vision", "Data Science", "Web Development", "Mobile Development",
+    "DevOps", "Cloud Computing", "Cybersecurity", "Blockchain", "IoT"
+  ]
+}

@@ -6,24 +6,42 @@ __pycache__/
 .Python
 venv/
 env/
-.env
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
 
 # IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
+*.sublime-project
+*.sublime-workspace
 
-# Data
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
 data/processed/*
 !data/processed/.gitkeep
+temp_*
+*.log
 
-# Models
+# Models (these will be downloaded)
 models/
 *.pkl
 *.pt
 *.pth
 
-# OS
-.DS_Store
-Thumbs.db
+# Streamlit
+.streamlit/secrets.toml

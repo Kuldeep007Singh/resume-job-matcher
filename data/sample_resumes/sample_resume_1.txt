@@ -1,0 +1,76 @@
+RAHUL SHARMA
+Data Scientist | Machine Learning Engineer
+
+Contact: rahul.sharma@email.com | +91-9876543210
+LinkedIn: linkedin.com/in/rahulsharma | GitHub: github.com/rahulsharma
+
+PROFESSIONAL SUMMARY
+Passionate Data Scientist with 3 years of experience in developing machine learning models and deploying AI solutions. Expertise in NLP, computer vision, and predictive analytics. Strong background in Python programming and cloud technologies.
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, SQL, JavaScript
+ML/AI Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face, XGBoost
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter
+Cloud & DevOps: AWS, Docker, Kubernetes, Git, Jenkins, CI/CD
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Web Frameworks: FastAPI, Flask, Streamlit
+Domains: Natural Language Processing, Computer Vision, Deep Learning, Time Series Analysis
+
+SOFT SKILLS
+Problem Solving, Team Collaboration, Communication, Critical Thinking, Adaptability, Project Management
+
+WORK EXPERIENCE
+
+Senior Data Scientist | TechCorp India Pvt. Ltd.
+Mumbai, Maharashtra | Jan 2023 - Present
+• Developed and deployed 5+ machine learning models for customer churn prediction, achieving 92% accuracy
+• Built an NLP-based sentiment analysis system processing 1M+ customer reviews daily
+• Implemented MLOps pipeline using Docker and Kubernetes, reducing deployment time by 60%
+• Led a team of 3 junior data scientists on computer vision projects
+• Technologies: Python, TensorFlow, AWS, Docker, PostgreSQL
+
+Machine Learning Engineer | DataSolutions Inc.
+Bangalore, Karnataka | Jun 2021 - Dec 2022
+• Created recommendation engine serving 500K+ users with 85% relevance score
+• Developed real-time fraud detection system using anomaly detection techniques
+• Built ETL pipelines processing 10GB+ daily data using Apache Spark
+• Improved model inference speed by 40% through optimization techniques
+• Technologies: PyTorch, Scikit-learn, MongoDB, FastAPI, Redis
+
+EDUCATION
+
+Master of Technology in Computer Science
+Indian Institute of Technology, Delhi | 2019 - 2021
+Specialization: Artificial Intelligence and Machine Learning
+CGPA: 8.7/10
+
+Bachelor of Engineering in Computer Science
+Mumbai University | 2015 - 2019
+CGPA: 8.2/10
+
+PROJECTS
+
+AI Resume Analyzer (Personal Project)
+• Built end-to-end resume screening system with 90% accuracy in skill matching
+• Implemented RAG-based Q&A system using LangChain and FAISS
+• Deployed on Streamlit with Docker containerization
+• Tech Stack: Python, Transformers, Sentence-BERT, FastAPI, Streamlit
+
+E-commerce Recommendation System
+• Developed collaborative filtering model serving 100K+ users
+• Achieved 30% increase in click-through rate
+• Tech Stack: PyTorch, Redis, PostgreSQL, AWS Lambda
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty (2023)
+• Deep Learning Specialization - Coursera (2022)
+• TensorFlow Developer Certificate (2021)
+
+PUBLICATIONS
+• "Deep Learning Approaches for Regional Language NLP" - IEEE Conference 2023
+• "Efficient Model Deployment Strategies" - Medium Blog Series (20K+ views)
+
+ACHIEVEMENTS
+• Winner - AI Hackathon 2023 (Team Lead)
+• Top 5% in Kaggle Competitions
+• Open Source Contributor - 500+ GitHub stars across projects

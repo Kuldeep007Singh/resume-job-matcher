@@ -1,0 +1,58 @@
+Senior Machine Learning Engineer
+
+TechVision AI Solutions Pvt. Ltd.
+Bangalore, Karnataka
+
+About Us:
+TechVision is a leading AI company building cutting-edge solutions for enterprise clients across India and globally.
+
+Job Description:
+We are seeking an experienced Senior Machine Learning Engineer to join our growing AI team. You will work on challenging problems in NLP, computer vision, and recommendation systems.
+
+Required Qualifications:
+• 4-6 years of experience in machine learning and AI
+• Bachelor's or Master's degree in Computer Science, Mathematics, or related field
+• Strong programming skills in Python
+• Proven experience with deep learning frameworks (TensorFlow, PyTorch)
+• Experience deploying ML models in production
+• Solid understanding of MLOps practices
+• Excellent problem-solving and analytical skills
+
+Must-Have Technical Skills:
+• Python (expert level)
+• TensorFlow or PyTorch
+• Scikit-learn, Pandas, NumPy
+• AWS or Google Cloud Platform
+• Docker and Kubernetes
+• Git version control
+• SQL and NoSQL databases (PostgreSQL, MongoDB)
+• RESTful API development (FastAPI/Flask)
+
+Nice-to-Have Skills:
+• Experience with Hugging Face Transformers
+• Knowledge of Apache Spark
+• Familiarity with React or other frontend frameworks
+• Experience with CI/CD pipelines
+• Contributions to open-source ML projects
+• Publications or conference presentations
+
+Key Responsibilities:
+• Design, develop, and deploy machine learning models at scale
+• Work on NLP problems including text classification, named entity recognition, and question answering
+• Collaborate with data engineers to build robust data pipelines
+• Optimize model performance and inference speed
+• Mentor junior engineers and conduct code reviews
+• Stay updated with latest ML research and implement cutting-edge techniques
+
+What We Offer:
+• Competitive salary: 25-35 LPA
+• Work on cutting-edge AI projects
+• Flexible work arrangements
+• Health insurance and wellness benefits
+• Learning and development opportunities
+• Collaborative and innovative work culture
+
+Location: Bangalore (Hybrid - 3 days office)
+
+To Apply:
+Send your resume to careers@techvision.ai with subject "Senior ML Engineer Application"

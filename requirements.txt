@@ -21,12 +21,14 @@ fastapi>=0.100.0
 uvicorn>=0.23.0
 python-multipart>=0.0.6
 
+# Visualization
+plotly>=5.17.0
+
 # Utilities
 python-dotenv>=1.0.0
 Pillow>=10.0.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
-plotly>=5.17.0
 
 # Optional (if using OpenAI for enhancements)
 # openai>=1.0.0
